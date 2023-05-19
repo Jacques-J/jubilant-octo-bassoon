@@ -1,0 +1,10 @@
+69881631850817231 is prime
+This took 9.65 seconds
+69881631850817231 is prime
+This took 9.55 seconds
+69881631850817231 is prime
+This took 9.49 seconds
+69881631850817231 is prime
+This took 9.51 seconds
+69881631850817231 is prime
+This took 9.48 seconds

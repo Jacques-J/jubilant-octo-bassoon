@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/liam/jubilant-octo-bassoon/HW2/txtFreqMulti.py", line 48, in <module>
+    max_length = max(word_counts.keys())
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: max() arg is an empty sequence
+
